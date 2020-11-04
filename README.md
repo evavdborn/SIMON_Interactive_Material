@@ -1,4 +1,4 @@
-# Anemone_Interactive_Material
+# SIMON_Interactive_Material
 This is material behviour created for the course Interactive Materility
 
 Hardware:
